@@ -1,0 +1,5 @@
+RoleName###RoleType###Results
+CashierHDFC###E
+ClerkICICI###C
+ManagerHDFC###E
+TesterICICI###C

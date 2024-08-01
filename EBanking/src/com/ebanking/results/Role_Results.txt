@@ -1,0 +1,5 @@
+RoleName###RoleType###Results
+CashierHDFC###E@#%$Role Creation: Pass and Role Already existed
+ClerkICICI###C@#%$Role Creation: Pass and Role Already existed
+ManagerHDFC###E@#%$Role Creation: Pass and Role Already existed
+TesterICICI###C@#%$Role Creation: Pass and New Role with id 2889 Created Sucessfully

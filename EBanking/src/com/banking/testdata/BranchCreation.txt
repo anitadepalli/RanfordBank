@@ -1,0 +1,6 @@
+BranchName###Address1###Zipcode###Country###State###City###Results
+DC431Alfa###BradfordRd###32714###USA###Washington###Olympia
+MH567Beta###NagpurRoad###56789###INDIA###MAHARASTRA###SHIRDI
+TN234Theeta###MGRRoad###23567###INDIA###Tamil Nadu###MADHURAI
+SC789Gamma###MoorsPKWY###76589###UK###Scottland###GLASGOW
+NY654Delta###DowntownAve###43256###USA###NewYork###Watertown

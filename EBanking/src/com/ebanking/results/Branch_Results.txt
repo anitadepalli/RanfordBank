@@ -1,0 +1,6 @@
+BranchName###Address1###Zipcode###Country###State###City###Results
+DC431Alfa###BradfordRd###32714###USA###Washington###Olympia$#@%Branch Creation: Pass and Branch name already Exist
+MH567Beta###NagpurRoad###56789###INDIA###MAHARASTRA###SHIRDI$#@%Branch Creation: Pass and Branch name already Exist
+TN234Theeta###MGRRoad###23567###INDIA###Tamil Nadu###MADHURAI$#@%Branch Creation: Pass and Branch name already Exist
+SC789Gamma###MoorsPKWY###76589###UK###Scottland###GLASGOW$#@%Branch Creation: Pass and Branch name already Exist
+NY654Delta###DowntownAve###43256###USA###NewYork###Watertown$#@%Branch Creation: Pass and Branch name already Exist
